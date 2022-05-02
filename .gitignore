@@ -1,0 +1,4 @@
+*.db
+guestbook/.calva/
+guestbook/.clj-kondo/
+guestbook/.lsp/
